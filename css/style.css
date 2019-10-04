@@ -10,6 +10,19 @@
   background-color: lightgrey;
 }
 
+.thumb{
+  position: relative;
+}
+
+.caption{
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  width: 100%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
 .footer{
   position: fixed;
   bottom: 0;
