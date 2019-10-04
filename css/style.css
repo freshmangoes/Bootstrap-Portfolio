@@ -10,6 +10,10 @@
   background-color: lightgrey;
 }
 
+.centered{
+  text-align: center;
+}
+
 
 @media(max-width: 576px){
   .right-label{
