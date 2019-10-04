@@ -2,6 +2,15 @@
   text-align: right !important;
 }
 
+.body-bgimg{
+  background-image: url("../assets/images/tactile_noise/tactile_noise.png")
+}
+
+.input-bg{
+  background-color: lightgrey;
+}
+
+
 @media(max-width: 576px){
   .right-label{
     text-align: left !important;
